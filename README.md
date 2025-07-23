@@ -31,7 +31,7 @@ Hope You Love it :)
 ## 🚀 Usage
 
 1. Open the app in a browser.
-2. Type a city name and press **Enter**, or click **"Your Location"**.
+2. Type a city name and press **Enter**, or click **"Your Location"** (Btw, This Feature will start working soon...).
 3. View current weather details instantly.
 
 ---
