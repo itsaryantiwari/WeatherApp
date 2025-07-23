@@ -18,9 +18,13 @@ Hope You Love it :)
 
 ## 🖼️ Screenshots
 
-| Project UI | Weather Display | Location Display |
-|------------|-----------------|------------------|
-| ![Screenshot1](./Screenshots/Screenshot_LandingPage.png) | ![Screenshot4](./Screenshots/Screenshot_1.png) | ![Screenshot2](./Screenshots/Screenshot_3.png) 
+| Project UI | Location-wise (Current - Hyderabad) |
+|:---:|:---:|
+| ![Landing Page](./Screenshots/Screenshot_LandingPage.png) | ![Hyderabad Display](./Screenshots/Screenshot_3.png) |
+
+| London Weather (Test) | The Hague Weather (Test) | Sydney Weather (Test) |
+|:---:|:---:|:---:|
+| ![London Display](./Screenshots/Screenshot_2.png) | ![The_Hague Display ](./Screenshots/Screenshot_1.png) | ![Sydney Display](./Screenshots/Screenshot_4.png) |
 
 ---
 
